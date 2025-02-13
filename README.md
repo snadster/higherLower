@@ -12,4 +12,3 @@ I have not tested edge-cases. Who am I to tell this silly little game that I whi
 No no.
 
 If you want those answers, test it yourself.
-
